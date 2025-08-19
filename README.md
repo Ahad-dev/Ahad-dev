@@ -1,89 +1,79 @@
-# 👋 Hi there, I'm Muhammad Ahad!
+<h1 align="center">Hi 👋, I'm Muhammad Ahad</h1>
+<h3 align="center">🚀 A Passionate Frontend Developer & MERN Stack Enthusiast from India</h3>
 
-Welcome to my GitHub profile! I'm a passionate **Full-Stack MERN Developer** with a focus on building innovative, scalable web applications. I thrive on solving complex problems, learning new technologies, and contributing to the open-source community.
-
----
-
-## 🧰 Tech Stack
-
-### 👨‍💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
-
-### 🧩 Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Express.js](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahad-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="ahad-dev" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahad-dev&theme=onedark&no-frame=true&margin-w=10" alt="ahad-dev" /></a>
+</p>
 
 ---
 
-## 🚧 Projects Showcase
-
-### 🔹 [Admin Dashboard](https://github.com/Ahad-dev/Admin-Dashboard)
-A powerful, customizable admin interface for managing data efficiently.  
-**Tech Stack**: Python, React, MongoDB
-
-### 🔹 [Notes App](https://github.com/Ahad-dev/Notes-App)
-A fully functional note-taking app with CRUD operations and search functionality.  
-**Tech Stack**: JavaScript, Express.js, MongoDB
-
-🔗 Explore more of my work in the [repositories section](https://github.com/Ahad-dev?tab=repositories)
+### 🌟 About Me
+- 🔭 I’m currently working on **[SyncPad](https://github.com/Ahad-dev/SyncPad)**
+- 🌱 Learning **Next.js, Machine Learning**
+- 👨‍💻 Check out my portfolio 👉 [ahadporfolio.netlify.app](https://ahadporfolio.netlify.app/)
+- 💬 Ask me about **React, MERN, Vibe Coding**
+- 📫 Reach me at **muhammadahad211126@gmail.com**
+- ⚡ Fun fact: *I can solve a Rubik's Cube in under 1 minute ⏱*
 
 ---
 
-## 📈 GitHub Stats
-
-![Ahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahad-dev&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahad-dev&layout=compact&theme=radical)
-
----
-
-## 🌱 Currently Exploring
-
-- 🔍 Advanced **React.js** & **Next.js**
-- 💡 Exploring **AI**, **Blockchain**, and **Web3**
-- 🔧 Building with **TypeScript** & **C++**
+### 🌍 Connect With Me
+<p align="left">
+<a href="https://dev.to/ahad_dev" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto" height="40" /></a>
+<a href="https://linkedin.com/in/ahadmuzaffar/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+<a href="https://www.leetcode.com/ahad-dev" target="blank"><img align="center" src="https://skillicons.dev/icons?i=leetcode" height="40" /></a>
+</p>
 
 ---
 
-## 📜 Certifications & Learning
-
-- ✔️ JavaScript Algorithms and Data Structures – freeCodeCamp  
-- ✔️ Responsive Web Design – freeCodeCamp  
-- 📖 Currently enrolled in advanced MERN stack & Next.js bootcamp
-
----
-
-## 🤝 Open Source & Community
-
-- Contributor at **Hacktoberfest**
-- Contributor to small **Node.js** and **React** utility libraries
-- Participating in local coding meetups & online developer communities
+### ⚒️ Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,express,mongodb,postgres,python,cpp,cs" />
+  <img src="https://skillicons.dev/icons?i=git,github,tailwind,bootstrap,figma,postman,vscode,nginx" />
+  <img src="https://skillicons.dev/icons?i=pandas,sklearn,seaborn" />
+</p>
 
 ---
 
-## 📫 Let's Connect!
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahad-dev&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahad-dev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="langs" height="160"/>
+</p>
 
-- 🌐 Portfolio: [ahadporfolio.netlify.app](https://ahadporfolio.netlify.app/)
-- 💼 LinkedIn: [Ahad Muzaffar](https://www.linkedin.com/in/ahad-muzaffar-0383682bb/)
-- ✉️ Email: [muhammadahad211126@gmail.com](mailto:muhammadahad211126@gmail.com)
-
-Feel free to reach out for collaborations, freelance work, or exciting new projects!
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahad-dev&theme=tokyonight&hide_border=true" alt="streak"/>
+</p>
 
 ---
 
-## ✨ Fun Fact
+### 🚀 Featured Projects
+- 📝 [SyncPad](https://github.com/Ahad-dev/SyncPad) → *A real-time collaborative notes app*  
+- 🌐 [Portfolio Website](https://ahadporfolio.netlify.app/) → *My personal developer portfolio*  
+- 📚 More on [My GitHub Repos](https://github.com/Ahad-dev)
 
-I can solve a Rubik’s cube in under 2 minutes — and debug stubborn backend issues even faster! 🧠⚡
+---
 
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahad-dev&theme=tokyo-night&hide_border=true" alt="activity graph" />
+</p>
+
+---
+
+### ✨ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
+</p>
+
+---
+
+### 🎵 Random Fun (Spotify)
+<p align="center">
+  <a href="https://open.spotify.com/user/ahad">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=ahad&cover_image=true&theme=default&show_offline=false&background_color=121212" />
+  </a>
+</p>
+
+---
